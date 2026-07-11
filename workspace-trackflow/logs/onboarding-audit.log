@@ -1,0 +1,45 @@
+2026-07-11T14:43:29Z | REGISTRO | Empleado 'María López Ruiz' creado en /root/.openclaw/workspace-trackflow/memory/mar-a-l-pez-ruiz.md (NO_INICIADO)
+2026-07-11T14:43:54Z | REGISTRO | Empleado 'María López Ruiz' creado en /root/.openclaw/workspace-trackflow/memory/maria-lopez-ruiz.md (NO_INICIADO)
+2026-07-11T14:43:54Z | EMAIL | Enviado a maria.lopez@trackflow.com: 'Bienvenido a TrackFlow — Inicia tu proceso de incorporación'
+2026-07-11T14:43:54Z | ERROR | Empleado 'María López Ruiz' debe estar en NO_INICIADO o AUTENTICACIÓN (actual: NO_INICIADO NO_INICIADO)
+2026-07-11T14:43:54Z | ERROR | Empleado 'María López Ruiz' no está en AUTENTICACIÓN (actual: NO_INICIADO NO_INICIADO)
+2026-07-11T14:43:54Z | ERROR | Empleado 'María López Ruiz' no está en AUTENTICACIÓN (actual: NO_INICIADO NO_INICIADO)
+2026-07-11T14:43:54Z | ERROR | Empleado 'María López Ruiz' no está ACTIVO (actual: NO_INICIADO NO_INICIADO)
+2026-07-11T14:44:29Z | REGISTRO | Empleado 'María López Ruiz' creado en /root/.openclaw/workspace-trackflow/memory/maria-lopez-ruiz.md (NO_INICIADO)
+2026-07-11T14:44:29Z | EMAIL | Enviado a maria.lopez@trackflow.com: 'Bienvenido a TrackFlow — Inicia tu proceso de incorporación'
+2026-07-11T14:44:29Z | INFO | Email de bienvenida enviado a 'María López Ruiz' — estado permanece NO_INICIADO
+2026-07-11T14:44:29Z | TELEGRAM | Para 123456789: 🔐 Código de verificación: 1E42C936
+
+María López Ruiz, este es tu código de segur...
+2026-07-11T14:44:29Z | CÓDIGO | Generado código '1E42C936' para 'María López Ruiz' — enviado por Telegram
+2026-07-11T14:44:29Z | VERIFICADO | Código '1E42C936' válido para 'María López Ruiz' — listo para aprobar
+2026-07-11T14:44:29Z | ERROR | Empleado 'María López Ruiz' no está ACTIVO (actual: AUTENTICACIÓN)
+2026-07-11T14:45:52Z | REGISTRO | Empleado 'María López Ruiz' creado en /root/.openclaw/workspace-trackflow/memory/maria-lopez-ruiz.md (NO_INICIADO)
+2026-07-11T14:45:52Z | EMAIL | Enviado a maria.lopez@trackflow.com: 'Bienvenido a TrackFlow — Inicia tu proceso de incorporación'
+2026-07-11T14:45:52Z | INFO | Email de bienvenida enviado a 'María López Ruiz' — estado permanece NO_INICIADO
+2026-07-11T14:45:52Z | TELEGRAM | Para 123456789: 🔐 Código de verificación: A7F8B9FE
+
+María López Ruiz, este es tu código de segur...
+2026-07-11T14:45:52Z | CÓDIGO | Generado código 'A7F8B9FE' para 'María López Ruiz' — enviado por Telegram
+2026-07-11T14:45:52Z | VERIFICADO | Código 'A7F8B9FE' válido para 'María López Ruiz' — listo para aprobar
+2026-07-11T14:45:52Z | ERROR | Empleado 'María López Ruiz' no está ACTIVO (actual: AUTENTICACIÓN)
+2026-07-11T14:46:46Z | REGISTRO | Empleado 'María López Ruiz' creado en /root/.openclaw/workspace-trackflow/memory/maria-lopez-ruiz.md (NO_INICIADO)
+2026-07-11T14:46:46Z | EMAIL | Enviado a maria.lopez@trackflow.com: 'Bienvenido a TrackFlow — Inicia tu proceso de incorporación'
+2026-07-11T14:46:46Z | INFO | Email de bienvenida enviado a 'María López Ruiz' — estado permanece NO_INICIADO
+2026-07-11T14:46:46Z | TELEGRAM | Para 123456789: 🔐 Código de verificación: 77F2C3A0
+
+María López Ruiz, este es tu código de segur...
+2026-07-11T14:46:46Z | CÓDIGO | Generado código '77F2C3A0' para 'María López Ruiz' — enviado por Telegram
+2026-07-11T14:46:46Z | VERIFICADO | Código '77F2C3A0' válido para 'María López Ruiz' — listo para aprobar
+2026-07-11T14:46:46Z | TELEGRAM | Para 123456789: ✅ ¡Bienvenido a TrackFlow, María López Ruiz!
+
+Tu identidad ha sido verificada y ...
+2026-07-11T14:46:46Z | ACTIVACIÓN | Instrucciones de onboarding enviadas a 'María López Ruiz' (Depto: Atención al Cliente)
+2026-07-11T14:55:26Z | INFO | Empleado 'María López Ruiz' aún tiene entregables pendientes
+2026-07-11T14:55:26Z | INFO | Entregable 'NDA' de 'Laura Pérez Sánchez' ya está RECIBIDO
+2026-07-11T14:55:26Z | ENTREGABLE | Empleado 'Laura Pérez Sánchez' — ERP: PENDIENTE → RECIBIDO
+2026-07-11T14:55:26Z | BARRIDO | Scan completado — 2 revisados, 0 cerrados
+2026-07-11T14:55:51Z | ENTREGABLE | Empleado 'Laura Pérez Sánchez' — SGA/Tickets: PENDIENTE → RECIBIDO
+2026-07-11T14:55:51Z | CIERRE | Empleado 'Laura Pérez Sánchez' completó todos los entregables → TERMINADO
+2026-07-11T14:55:51Z | BARRIDO | Scan completado — 1 revisados, 0 cerrados
+2026-07-11T14:56:51Z | BARRIDO | Scan completado — 1 revisados, 0 cerrados
